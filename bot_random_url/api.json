@@ -1,0 +1,290 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Linda",
+                "last": "Fowler"
+            },
+            "location": {
+                "street": {
+                    "number": 7023,
+                    "name": "West Street"
+                },
+                "city": "Preston",
+                "state": "Merseyside",
+                "country": "United Kingdom",
+                "postcode": "K3U 8QR",
+                "coordinates": {
+                    "latitude": "-10.4190",
+                    "longitude": "69.3770"
+                },
+                "timezone": {
+                    "offset": "+4:00",
+                    "description": "Abu Dhabi, Muscat, Baku, Tbilisi"
+                }
+            },
+            "email": "linda.fowler@example.com",
+            "login": {
+                "uuid": "9469bfb9-db08-472b-a7c0-1a1101ad593b",
+                "username": "angrybutterfly669",
+                "password": "sandra",
+                "salt": "RdHDlRiD",
+                "md5": "364d0b253d5858ca8a121d56b5c1045c",
+                "sha1": "87e76d905f9a83fbe1339b67014fca25ad1451e9",
+                "sha256": "231948ed1949d66ae607f839ee60cf08f777003b0a9e8d7e6bdbdb6d8df962b2"
+            },
+            "dob": {
+                "date": "1949-03-25T08:12:14.799Z",
+                "age": 77
+            },
+            "registered": {
+                "date": "2003-12-04T10:36:48.264Z",
+                "age": 22
+            },
+            "phone": "016977 1496",
+            "cell": "07866 955829",
+            "id": {
+                "name": "NINO",
+                "value": "JZ 44 22 65 E"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/2.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/2.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/2.jpg"
+            },
+            "nat": "GB"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "\u0631\u0627\u062f\u06cc\u0646",
+                "last": "\u06a9\u0648\u062a\u06cc"
+            },
+            "location": {
+                "street": {
+                    "number": 1281,
+                    "name": "\u0628\u0631\u0627\u062f\u0631\u0627\u0646 \u0633\u0644\u06cc\u0645\u0627\u0646\u06cc"
+                },
+                "city": "\u06a9\u0631\u062c",
+                "state": "\u06a9\u0631\u062f\u0633\u062a\u0627\u0646",
+                "country": "Iran",
+                "postcode": 28162,
+                "coordinates": {
+                    "latitude": "57.6943",
+                    "longitude": "-90.1980"
+                },
+                "timezone": {
+                    "offset": "+3:30",
+                    "description": "Tehran"
+                }
+            },
+            "email": "rdyn.khwty@example.com",
+            "login": {
+                "uuid": "f5e5ca5f-56af-4c55-ab65-57d02b3b28f5",
+                "username": "greendog808",
+                "password": "therock",
+                "salt": "BuU2r7sQ",
+                "md5": "fadcb1b354ce9e623f3f7b6cee7ac134",
+                "sha1": "54609e96edb1c086ba56d18dec90b4da53e673a4",
+                "sha256": "42b19f271d95c5c1c1e93e23114abbf22d83106942fd9abf6423f53e5d92e036"
+            },
+            "dob": {
+                "date": "1967-05-27T22:33:41.790Z",
+                "age": 59
+            },
+            "registered": {
+                "date": "2016-08-17T22:24:04.779Z",
+                "age": 10
+            },
+            "phone": "088-22179054",
+            "cell": "0964-117-2058",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/24.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/24.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/24.jpg"
+            },
+            "nat": "IR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Anka",
+                "last": "Tomovi\u0107"
+            },
+            "location": {
+                "street": {
+                    "number": 2719,
+                    "name": "Hitrih Kosa\u010da"
+                },
+                "city": "Od\u017eaci",
+                "state": "Pe\u0107",
+                "country": "Serbia",
+                "postcode": 85882,
+                "coordinates": {
+                    "latitude": "82.5229",
+                    "longitude": "33.2606"
+                },
+                "timezone": {
+                    "offset": "-8:00",
+                    "description": "Pacific Time (US & Canada)"
+                }
+            },
+            "email": "anka.tomovic@example.com",
+            "login": {
+                "uuid": "89c65982-f33d-4d2a-93d2-2842b607ca16",
+                "username": "angrygorilla800",
+                "password": "deville",
+                "salt": "pHoB4HFk",
+                "md5": "384c2ff33e4b85558e885e5107485b04",
+                "sha1": "108e5a018799d6eacd878744787c96006e98ff5a",
+                "sha256": "a6bde57f166784b0b22c83d198f75c9cb581c40ade036eb3fdaeadf1ec248778"
+            },
+            "dob": {
+                "date": "1960-10-23T17:01:36.766Z",
+                "age": 65
+            },
+            "registered": {
+                "date": "2006-03-16T12:25:24.805Z",
+                "age": 20
+            },
+            "phone": "010-1925-921",
+            "cell": "062-6984-415",
+            "id": {
+                "name": "SID",
+                "value": "206004354"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/59.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/59.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/59.jpg"
+            },
+            "nat": "RS"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "\u00dclk\u00fc",
+                "last": "Ozansoy"
+            },
+            "location": {
+                "street": {
+                    "number": 6793,
+                    "name": "Istiklal Cd"
+                },
+                "city": "Amasya",
+                "state": "Osmaniye",
+                "country": "Turkey",
+                "postcode": 50800,
+                "coordinates": {
+                    "latitude": "85.1962",
+                    "longitude": "42.7203"
+                },
+                "timezone": {
+                    "offset": "-1:00",
+                    "description": "Azores, Cape Verde Islands"
+                }
+            },
+            "email": "ulku.ozansoy@example.com",
+            "login": {
+                "uuid": "11043dca-bcc9-4edc-8ade-fcb4725f037f",
+                "username": "purplemouse153",
+                "password": "brigitte",
+                "salt": "Cn6qTrNJ",
+                "md5": "3ca982c7dfeea3becaaa3b05c580159d",
+                "sha1": "6b7b855a6bb0e3f0501e4ed33d0e6624a3f20c9a",
+                "sha256": "9269068aca8feb101c8b25268ce514cce97bfb255ec3f0f8e9f35ed1c96f74a7"
+            },
+            "dob": {
+                "date": "1962-08-23T07:00:01.956Z",
+                "age": 64
+            },
+            "registered": {
+                "date": "2010-05-08T22:18:07.517Z",
+                "age": 16
+            },
+            "phone": "(290)-282-6876",
+            "cell": "(638)-305-5531",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/52.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+            },
+            "nat": "TR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Corey",
+                "last": "Sims"
+            },
+            "location": {
+                "street": {
+                    "number": 5265,
+                    "name": "Church Road"
+                },
+                "city": "St Albans",
+                "state": "West Yorkshire",
+                "country": "United Kingdom",
+                "postcode": "M1 7ZY",
+                "coordinates": {
+                    "latitude": "82.3288",
+                    "longitude": "-97.1676"
+                },
+                "timezone": {
+                    "offset": "-3:30",
+                    "description": "Newfoundland"
+                }
+            },
+            "email": "corey.sims@example.com",
+            "login": {
+                "uuid": "caeaaf88-d4e7-4af8-8f86-7da7fdde18bb",
+                "username": "orangepeacock505",
+                "password": "toriamos",
+                "salt": "ocdhRoCN",
+                "md5": "47b2180edf29289a6c57d28dfb427fe4",
+                "sha1": "fc4c19451d2f901a0c8c071c520aa2602c2032e4",
+                "sha256": "cafde094a59a75dbdb1b4896e19993623717d9ca23642d53409f0241525f74fd"
+            },
+            "dob": {
+                "date": "1974-06-08T18:46:17.741Z",
+                "age": 52
+            },
+            "registered": {
+                "date": "2021-10-08T09:19:05.153Z",
+                "age": 4
+            },
+            "phone": "016974 37480",
+            "cell": "07263 660506",
+            "id": {
+                "name": "NINO",
+                "value": "TE 81 29 97 F"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/31.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/31.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/31.jpg"
+            },
+            "nat": "GB"
+        }
+    ],
+    "info": {
+        "seed": "38b4d798a4a2ad68",
+        "results": 5,
+        "page": 2,
+        "version": "1.4"
+    }
+}
